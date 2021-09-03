@@ -342,10 +342,6 @@ section {
         width: 80%;
     }
 
-    .trainer {
-        flex: 0 70%;
-    }
-
     .contact-info iframe {
         flex: 1 100%;
     }
