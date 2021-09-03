@@ -72,7 +72,7 @@ footer {
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
-    background-color: var(--tertiary-color);
+    background-color: var(--secondary-color);
     width: 100%;
     padding: 40px 35px;
 }
@@ -157,7 +157,7 @@ section {
     border-color: var(--tertiary-color);
 }
 
-/* work section */
+/* my work section */
 .steps {
     background: var(--primary-color);
 }
@@ -172,6 +172,10 @@ section {
     align-items: center;
     justify-content: space-between;
   }
+
+.href {
+    color: var(--tertiary-color);
+}
 
   /* adds border to all child elements except last child element*/
 .step:last-child {
@@ -217,11 +221,11 @@ section {
 
 /* contact me styles start */
 .contact {
-    background: var(--secondary-color);
+    background: var(--tertiary-color);
 }
 
 .contact h2 {
-    color: var(--tertiary-color);
+    color: var(--secondary-color);
 }
 
 .contact-info iframe { 
@@ -233,7 +237,7 @@ section {
 }
 
 .contact-info h3 {
-    color: var(--tertiary-color);
+    color: var(--secondary-color);
     font-size: 32px;
 }
 
@@ -295,7 +299,7 @@ section {
 
 .contact-form button:hover {
     color: var(--primary-color);
-    background: var(--tertiary-color);
+    background: var(--secondary-color);
 }
 
 /*MEDIA QUERY FOR SMALLER DESKTOP SCREENS AND SMALLER*/
