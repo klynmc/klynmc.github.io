@@ -11,4 +11,4 @@ So potential employers can observe my portfolio.
 https://klynmc.github.io/sturdy-disco/
 
 ## Contribution
-Made with ❤️ by Leigha McKay
+Made with ❤️ by Leigha McKay.
